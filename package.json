@@ -17,7 +17,7 @@
     "brace"
   ],
   "dependencies": {
-    "brace": "^0.10.0"
+    "brace": "https://github.com/pulkit604/brace.git"
   },
   "author": "Luventa Pan",
   "license": "MIT"
